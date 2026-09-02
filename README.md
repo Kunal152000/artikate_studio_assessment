@@ -38,7 +38,7 @@ docker compose exec web python manage.py drf_create_token admin
 ## Screen Recording
 
 **Link:** 
-
+https://drive.google.com/file/d/1Oc01LqsWvzKvki8dYwK3nx0OuwebpFa1/view?usp=sharing
 ---
 
 ## Assumptions Made
