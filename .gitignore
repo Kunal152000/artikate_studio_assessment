@@ -32,6 +32,5 @@ htmlcov/
 *.override.yml
 
 # Files
-explanation.md
-ponytail.md
-project.md
+celerybeat-schedule*
+project_reasoning
